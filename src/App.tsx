@@ -1,6 +1,7 @@
 
 import './App.css'
-import PaypalComponent from './components/PaypalButton'
+import PaypalComponent from './components/PaypalButton.jsx'
+
 
 function App() {
 
